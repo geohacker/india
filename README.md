@@ -1,4 +1,4 @@
 india
 =====
 
-India data repository. Geographic data from [GADM.](http://gadm.org).
+India Data Repository. Geographic Data From [GADM.](http://gadm.org).
